@@ -30,4 +30,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on stackoverflow and read tech articles.
-1
+
