@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working at ... Uzbekistan, Tashkent
-- 🌱 I’m currently teaching ... Django
-- 👯 I’m looking to collaborate on ... Django
+- 👯 I’m looking to collaborate on ... Django, FastAPI
 - 🤔 I’m looking for help with ... React Server Components
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram](https://t.me/KhayitovDev)
