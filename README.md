@@ -1,4 +1,4 @@
-### My name is Khayitov Javokhir and I'm a Back End and DevOps developer! 👋
+### My full name is Khayitov Javokhir and I'm a Back End and DevOps developer! 👋
 
 
 
