@@ -1,6 +1,6 @@
 Hi there! I’m Khayitov Javokhir, a Software Engineer 🚀
 
-	•	🔭 Currently working at Viva Med Uz in Uzbekistan, Tashkent
+	•	🔭 Currently working at Sodda.ai in Uzbekistan, Tashkent
 	•	🌱 Always eager to learn more about modern software development frameworks and technologies
 	•	👯 Open to collaborate on Django, FastAPI, and other software engineering projects
 	•	🤔 Looking for assistance with exploring React Server Components for integrating modern front-end with backend systems
