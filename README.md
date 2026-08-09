@@ -1,60 +1,94 @@
-<h1 align="center">Hi there, I'm Khayitov Javokhir 👋</h1>
-<h3 align="center">Software Engineer 🚀</h3>
+<div align="center">
 
-- 🔭 Currently working at **Sodda.ai** in Tashkent, Uzbekistan
-- 🌱 Always eager to learn more about modern software development frameworks and technologies
-- 👯 Open to collaborate on Django, FastAPI, and other software engineering projects
-- 🤔 Looking for assistance with exploring React Server Components for integrating modern front-end with backend systems
-- 💬 Feel free to ask me about anything related to software development, microservices, and cloud deployment
-- 📫 You can reach me on Telegram, YouTube, or LinkedIn
-- 📧 Email me at: khayitovdev@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love blending different cultures and ideas into my coding style
+# Salom, men Khayitov Javokhir 👋
+### Backend / AI Software Engineer
 
-## About Me
+[![Telegram](https://img.shields.io/badge/Telegram-@KhayitovDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KhayitovDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhayitovDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khayitovdev)
+[![Gmail](https://img.shields.io/badge/Email-khayitovdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayitovdev@gmail.com)
 
-I am a passionate Software Engineer with **5+ years of experience**, focused on creating efficient, scalable, and maintainable systems. I specialize in backend frameworks like Django and FastAPI and have a strong grasp of microservices architecture.
+</div>
 
-I have extensive experience in:
+---
 
-- **Microservices**: Designing systems that handle high traffic while ensuring reliability and scalability
-- **DevOps**: Skilled in Docker, Kubernetes, CI/CD pipelines, Nginx, and managing Linux servers
-- **Data Management**: Working with SQL and NoSQL databases, especially PostgreSQL, SQLite, and Elasticsearch
-- **Asynchronous Programming**: Leveraging Python's asyncio and Kafka for building high-performance applications
+### 🧭 About
 
-## 🌱 I'm currently exploring
+5+ yillik tajribaga ega backend va AI muhandisiman. Yuqori yuklamali tizimlar, computer vision loyihalari va mikroservis arxitekturasi ustida ishlayman — FastAPI, Django va Python ekotizimida.
 
-- **React Server Components**: Bridging the gap between front-end and back-end performance optimization
-- **Technical Content Writing**: Sharing knowledge about backend frameworks, architecture, and DevOps practices through blog posts and YouTube videos
+- 🧠 **AI/CV** — yuz tanish, raqam belgi tanish, obyekt aniqlash tizimlari (YOLO, dlib, OpenCV)
+- ⚙️ **Backend** — yuqori yuklamali API'lar, mikroservislar, real-vaqt ma'lumot oqimlari
+- ☁️ **DevOps** — Docker, Kubernetes, CI/CD, Linux server administration
+- 🌱 Hozir React Server Components va texnik kontent yozishni o'rganyapman
 
-## 💻 Technologies & Tools
+---
 
-- **Languages**: Python, SQL, Shell scripting
-- **Backend Frameworks**: Django, FastAPI, Flask
-- **Databases**: PostgreSQL, SQLite, MongoDB, Elasticsearch
-- **DevOps**: Docker, Docker Compose/Swarm, Gunicorn, Nginx, Traefik, Kubernetes, Linux servers
-- **Message Queues**: Kafka, RabbitMQ, NATS
-- **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: GitHub Actions, Jenkins
-- **Cloud**: AWS, DigitalOcean, Heroku
+### 💻 Tech Stack
 
-## 🚀 Projects and Contributions
+<div align="center">
 
-- **QuickMatch**: Telegram-based matchmaking/dating platform with a Flutter mobile app, AI assistant feature, and built-in monetization (Telegram Stars, affiliate program)
-- **Topshir.com**: Uzbekistan-based freelance/service marketplace platform
-- **AI / Computer Vision Systems (FastAPI + MongoDB)**: Built and deployed multiple production AI systems — a 130+ camera face-recognition network for a university (10,000+ students), a nationwide vehicle license-plate recognition system (100+ inspection points), and a person/uniform detection system for an industrial facility, all backed by FastAPI, MongoDB, and YOLO
-- **School Attendance Network**: Large-scale attendance (davomat) system connecting 30+ schools via WireGuard VPN, with face-recognition terminals integrated through a FastAPI backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🏆 Achievements
+</div>
 
-- Solved numerous problems on StackOverflow, sharing solutions to help the developer community
-- Active contributor to open-source projects, focusing on improving software performance and scalability
-- Published tech articles and tutorials on backend frameworks, microservices, and cloud deployment
+---
 
-## 📫 How to reach me
+### 🚀 Loyihalar
 
-- Telegram: [@KhayitovDev](https://t.me/KhayitovDev)
-- LinkedIn: [KhayitovDev](https://linkedin.com/in/khayitovdev)
-- Email: khayitovdev@gmail.com
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Feel free to reach out for collaborations or if you need help with anything software engineering-related!
+**🩷 QuickMatch**
+Telegram-asosidagi tanishuv platformasi — Flutter mobil ilova, AI-yordamchi va monetizatsiya (Telegram Stars, hamkorlik dasturi)
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Topshir.com**
+O'zbekiston bozori uchun frilanser/xizmatlar platformasi
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📷 AI / Computer Vision tizimlari**
+FastAPI + MongoDB + YOLO asosida: universitet uchun 130+ kamerali yuz tanish tizimi (10,000+ talaba), respublika bo'ylab 100+ nazorat punktida raqam belgi tanish tizimi, sanoat obyekti uchun kiyim/shaxs aniqlash tizimi
+
+</td>
+<td width="50%" valign="top">
+
+**🏫 Davomat tarmog'i**
+30+ maktabni WireGuard VPN orqali bog'lovchi, FastAPI backend bilan integratsiya qilingan yuz tanish terminallariga asoslangan davomat tizimi
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+
+- StackOverflow'da ko'plab savollarga yechim taqdim etganman
+- Open-source loyihalarga hissa qo'shganman — performance va scalability yo'nalishida
+- Backend, mikroservis va cloud deployment bo'yicha texnik maqolalar yozganman
+
+---
+
+<div align="center">
+
+📫 **Bog'lanish:** [Telegram](https://t.me/KhayitovDev) · [LinkedIn](https://linkedin.com/in/khayitovdev) · [khayitovdev@gmail.com](mailto:khayitovdev@gmail.com)
+
+</div>
