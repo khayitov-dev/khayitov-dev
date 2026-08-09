@@ -50,25 +50,19 @@
 <tr>
 <td width="50%" valign="top">
 
-**🩷 QuickMatch**
-Telegram-asosidagi tanishuv platformasi — Flutter mobil ilova, AI-yordamchi va monetizatsiya (Telegram Stars, hamkorlik dasturi)
-
-</td>
-<td width="50%" valign="top">
-
 **🛠️ Topshir.com**
 O'zbekiston bozori uchun frilanser/xizmatlar platformasi
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **📷 AI / Computer Vision tizimlari**
 FastAPI + MongoDB + YOLO asosida: universitet uchun 130+ kamerali yuz tanish tizimi (10,000+ talaba), respublika bo'ylab 100+ nazorat punktida raqam belgi tanish tizimi, sanoat obyekti uchun kiyim/shaxs aniqlash tizimi
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 **🏫 Davomat tarmog'i**
 30+ maktabni WireGuard VPN orqali bog'lovchi, FastAPI backend bilan integratsiya qilingan yuz tanish terminallariga asoslangan davomat tizimi
