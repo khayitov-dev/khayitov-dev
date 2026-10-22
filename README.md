@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@KhayitovDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KhayitovDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KhayitovDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khayitovdev)
 [![Gmail](https://img.shields.io/badge/Email-khayitovdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayitovdev@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=khayitovdev&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=khayitov-dev.khayitov-dev&left_text=PROFILE%20VIEWS&left_color=%23555&right_color=%232c5364)
 
 </div>
 
@@ -261,12 +261,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khayitovdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayitovdev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khayitov-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayitov-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=khayitovdev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=khayitov-dev&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khayitovdev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khayitov-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
